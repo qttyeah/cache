@@ -1,0 +1,19 @@
+{
+    "name": "qttyeah/cache",
+    "description": "Aggregate partial cache database driver",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "qttyeah",
+            "email": "15213725562@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "Qttyeah\\Cache\\": "src"
+        }
+    }
+}
